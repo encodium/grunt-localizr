@@ -1,9 +1,9 @@
 {
-  "name": "grunt-localizr",
+  "name": "@encodium/grunt-localizr",
   "version": "0.2.4",
   "author": {
-    "name": "Poornima Venkatakrishnan",
-    "email": "pvenkatakrishnan@paypal.com"
+    "name": "RevolutionParts",
+    "email": "info@revolutionparts.com"
   },
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
     "bluebird": "^2.9.3",
     "concat-stream": "~1.4.3",
     "graceful-fs": "^4.1.3",
-    "localizr": "~0.1.0",
+    "localizr": "^1.1.0",
     "mkdirp": "~0.3.5",
     "qlimit": "^0.1.1"
   },
